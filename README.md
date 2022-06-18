@@ -15,5 +15,5 @@ A collection of resources I've found useful.
 [wpf_misc-resources]: https://github.com/binarycow/Resources/wiki/Misc.-WPF-Resources
 [wpf_libraries]: https://github.com/binarycow/Resources/wiki/WPF-Libraries
 [wpf_converters]: https://github.com/binarycow/Resources/wiki/WPF-Converters
-[wpf_enum-is-checked-extension]: https://github.com/binarycow/Resources/wiki/WPF-Converters
+[wpf_enum-is-checked-extension]: https://github.com/binarycow/Resources/wiki/WPF-EnumIsCheckedExtension
 [wpf_markup-extensions]: https://github.com/binarycow/Resources/wiki/WPF-Markup-Extensions
