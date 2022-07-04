@@ -8,6 +8,7 @@ A collection of resources I've found useful.
     * [Converters][wpf_converters]
     * [Markup Extensions][wpf_markup-extensions]
       * [EnumIsCheckedExtension][wpf_enum-is-checked-extension]
+    * [VisualTreeExtensions][wpf_visual-tree-extensions]
 
 [home]: https://github.com/binarycow/Resources/wiki
 [wpf]: https://github.com/binarycow/Resources/wiki/WPF
@@ -17,3 +18,4 @@ A collection of resources I've found useful.
 [wpf_converters]: https://github.com/binarycow/Resources/wiki/WPF-Converters
 [wpf_enum-is-checked-extension]: https://github.com/binarycow/Resources/wiki/WPF-EnumIsCheckedExtension
 [wpf_markup-extensions]: https://github.com/binarycow/Resources/wiki/WPF-Markup-Extensions
+[wpf_visual-tree-extensions]: https://github.com/binarycow/Resources/blob/master/WpfApp1/VisualTreeExtensions.cs
