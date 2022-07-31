@@ -1,5 +1,7 @@
 A collection of resources I've made and/or found useful.
 
+* General
+  * [Extension Methods][general_extensions]
 * WPF
   * [Converters][wpf_converters]
     * [Enum IsChecked MarkupExtension][wpf_enum-is-checked]
@@ -8,7 +10,7 @@ A collection of resources I've made and/or found useful.
   * [Libraries][wpf_libraries]
   * [RoutedCommandBinding][wpf_routed-command-binding]
 
-
+[general_extensions]: https://github.com/binarycow/Resources/blob/master/docs/general_extensions.md
 [wpf_design-time-datacontext]: https://github.com/binarycow/Resources/blob/master/docs/design-time-datacontext.md
 [wpf_libraries]: https://github.com/binarycow/Resources/blob/master/docs/libraries.md
 [wpf_misc-resources]: https://github.com/binarycow/Resources/blob/master/docs/misc-resources.md
