@@ -3,7 +3,9 @@
 * [Push Bindings][push-bindings]
 * [Changes to console handling for WPF/WinForms apps in .NET 5][dotnet-5-console]
 * [Creating WPF Data Templates in Code - The Right Way][data-template-manager]
+* [WPF complete guide to Themes and Skins][wpf-theme-skin]
 
 [push-bindings]: https://meleak.wordpress.com/2011/08/28/onewaytosource-binding-for-readonly-dependency-property/
 [dotnet-5-console]: https://docs.microsoft.com/en-us/dotnet/core/compatibility/sdk/5.0/automatically-infer-winexe-output-type
 [data-template-manager]: https://ikriv.com/dev/wpf/DataTemplateCreation/
+[wpf-theme-skin]: https://michaelscodingspot.com/wpf-complete-guide-themes-skins/
